@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Archit Parnami
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of North Carolina at Charlotte
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning and Computer Vision.
 
 interests:
+- Machine Learning
+- Computer Vision
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of North Carolina at Charlotte, U.S
+    year: Present
+  - course: M.S in Computer Science
+    institution: University of North Carolina at Charlotte, U.S
+    year: 2018
+  - course: B.S in Computer Science
+    institution: Rajasthan Technical University, India
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aparnami@uncc.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ArchitParnami
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=FzcQe4kAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ArchitParnami
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/archit-parnami/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently a PhD student at The University of North Carolina at Charlotte working under the supervision of Dr. Minwoo Lee. I am interested in machine learning and computer vision, particularly my research is focused on the subfields of machine learning i.e., few-shot learning, meta-learning and continual learning in neural networks. 
